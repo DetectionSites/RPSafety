@@ -1,6 +1,6 @@
-body {
+/*body {
   background-color: rgb(192,192,192);
-  /*background: url("flow.png");*/
+  background: url("flow.png");
 }
 h1 {
   text-transform: uppercase;
@@ -12,6 +12,59 @@ strong {
    color: #0b3434;
   font-family: 'Montserrat', sans-serif;
 }
+.poster {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: rgb(122, 20, 20);
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+.motivation-img {
+  border: 15px solid rgb(112, 16, 48);
+  width: 100%;
+}*/
+
+body {
+  background-image: none;
+  color: /*rgb(233, 231, 231);*/
+  background-color rgba(21, 207, 167, 0.674);
+  /*background: url("flow.png");*/
+}
+
+body {
+  background-image: url("IMG_E0430.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+h1 {
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: left;
+  font-family: 'Libre Baskerville', serif;
+}
+
+strong {
+   color: black;/*hsl(111, 83%, 42%);*/
+  font-family: 'Montserrat', sans-serif;
+}
+
 .poster {
   width: 50%;
   margin-left: 25%;
