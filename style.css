@@ -55,6 +55,7 @@ h2 {
 }
 
 p {
+  color: red;
   font-size: 1.2rem;
   text-align: left;
   font-family: 'Libre Baskerville', serif;
