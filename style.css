@@ -63,7 +63,8 @@ h2 {
   padding: 20px;
   
   /* Optional styling to make the box look nice */
-  background-color: #f9f9f9;
+/*  background-color: #f9f9f9;*/
+  background-color: dark blue;
   max-width: 400px;
   border-radius: 8px;
   font-family: sans-serif;
